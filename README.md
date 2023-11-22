@@ -1,4 +1,4 @@
-# DIO - Trilha .NET - Programação orientada a objetos
+# DIO - Trilha .NET - Programação orientada a objetos (com Solução)
 www.dio.me
 
 ## Desafio de projeto
@@ -19,4 +19,4 @@ Você deve criar as suas classes de acordo com o diagrama abaixo:
 3. O método **InstalarAplicativo** deve ser sobrescrito na classe Nokia e iPhone, pois ambos possuem diferentes maneiras de instalar um aplicativo.
 
 ## Solução
-O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+A solução do Desafio foi implementada conforme as regras estabelecidas acima. A solução encontra-se na branch "solucao" que deverá ser mergeada à branch "main" em Pull Request específico. Todos os comentários "TODO" foram convertidos em "DONE".
